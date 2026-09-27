@@ -12,7 +12,7 @@ Contextes : administration publique · industrie · agritech · e-commerce.
 
 Mon portfolio est un **éditeur de code**. Pas une page web avec un thème sombre — un vrai IDE, avec sidebar, onglets, command palette, et un thème maison qu'on appelle **Nosy**.
 
-→ **[suis-je.vercel.app](https://suis-je.vercel.app)**
+→ **[whoami-pink.vercel.app](https://whoami-pink.vercel.app)**
 
 ---
 
@@ -27,7 +27,7 @@ Quelques études de cas récentes, du cadrage au déploiement.
 | **Traçabilité Bétail** | Agritech · Passeports zébus | Next.js · MongoDB · JWT |
 | **Plateforme E-Commerce** | Retail · Tunnel d'achat | React · Node · Cloudinary |
 
-→ Détails complets sur [suis-je.vercel.app](https://suis-je.vercel.app)
+→ Détails complets sur [whoami-pink.vercel.app](https://whoami-pink.vercel.app)
 
 ---
 
